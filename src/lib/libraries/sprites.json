@@ -1,0 +1,460 @@
+[
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062c4709516dd06be83db0f",
+        "name": "nhan vat 41",
+        "costumes": [
+            {
+                "_id": "6062c4709516dd06be83db10",
+                "assetId": "2ae75365559f6aa821143381e88331f2",
+                "bitmapResolution": 1,
+                "md5ext": "2ae75365559f6aa821143381e88331f2.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/4Asset 1.svg",
+                "name": "nhan vat 410"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062c4709516dd06be83db11",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": null,
+        "isStage": false,
+        "blocks": null,
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062c47d9516dd06be83db13",
+        "name": "nhan vat 42",
+        "costumes": [
+            {
+                "_id": "6062c47d9516dd06be83db14",
+                "assetId": "8e35fa14658885f1cb27f291206902d8",
+                "bitmapResolution": 1,
+                "md5ext": "8e35fa14658885f1cb27f291206902d8.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/4Asset 2.svg",
+                "name": "nhan vat 420"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062c47d9516dd06be83db15",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": null,
+        "isStage": false,
+        "blocks": null,
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062c4899516dd06be83db17",
+        "name": "nhan vat 43",
+        "costumes": [
+            {
+                "_id": "6062c4899516dd06be83db18",
+                "assetId": "853bb5d3bb7d77b69c3c3c4849188cc9",
+                "bitmapResolution": 1,
+                "md5ext": "853bb5d3bb7d77b69c3c3c4849188cc9.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/4Asset 3.svg",
+                "name": "nhan vat 430"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062c4899516dd06be83db19",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": null,
+        "isStage": false,
+        "blocks": null,
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062c4969516dd06be83db1b",
+        "name": "nhan vat 44",
+        "costumes": [
+            {
+                "_id": "6062c4969516dd06be83db1c",
+                "assetId": "5a247df6416106ced57c82b857e8a562",
+                "bitmapResolution": 1,
+                "md5ext": "5a247df6416106ced57c82b857e8a562.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/4Asset 4.svg",
+                "name": "nhan vat 440"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062c4969516dd06be83db1d",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": null,
+        "isStage": false,
+        "blocks": null,
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062c4a49516dd06be83db1f",
+        "name": "nhan vat 45",
+        "costumes": [
+            {
+                "_id": "6062c4a49516dd06be83db20",
+                "assetId": "4b5a7798798ba27ded3e082698d17387",
+                "bitmapResolution": 1,
+                "md5ext": "4b5a7798798ba27ded3e082698d17387.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/4Asset 5.svg",
+                "name": "nhan vat 450"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062c4a49516dd06be83db21",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": null,
+        "isStage": false,
+        "blocks": null,
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062d997bc7b080716355850",
+        "name": "nhan vat 44",
+        "costumes": [
+            {
+                "_id": "6062d997bc7b080716355851",
+                "assetId": "5a247df6416106ced57c82b857e8a562",
+                "bitmapResolution": 1,
+                "md5ext": "5a247df6416106ced57c82b857e8a562.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/nv_44.svg",
+                "name": "nhan vat 440"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062d997bc7b080716355852",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "isStage": false,
+        "variables": {},
+        
+        "blocks": {},
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062d9b8bc7b080716355854",
+        "name": "nhan vat 45",
+        "costumes": [
+            {
+                "_id": "6062d9b8bc7b080716355855",
+                "assetId": "4b5a7798798ba27ded3e082698d17387",
+                "bitmapResolution": 1,
+                "md5ext": "4b5a7798798ba27ded3e082698d17387.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/nv_45.svg",
+                "name": "nhan vat 450"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062d9b8bc7b080716355856",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": {},
+        
+        "blocks": {},
+        "isStage": false,
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062d9c7bc7b080716355858",
+        "name": "nhan vat 51",
+        "costumes": [
+            {
+                "_id": "6062d9c7bc7b080716355859",
+                "assetId": "31c595610a5d2775bdcbf268d044cc51",
+                "bitmapResolution": 1,
+                "md5ext": "31c595610a5d2775bdcbf268d044cc51.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/nv_51.svg",
+                "name": "nhan vat 510"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062d9c7bc7b08071635585a",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": {},
+        "isStage": false,
+        "blocks": {},
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062d9cdbc7b08071635585c",
+        "name": "nhan vat 52",
+        "costumes": [
+            {
+                "_id": "6062d9cdbc7b08071635585d",
+                "assetId": "79a3fb7db677f96df3a74a40c4ec571c",
+                "bitmapResolution": 1,
+                "md5ext": "79a3fb7db677f96df3a74a40c4ec571c.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/nv_52.svg",
+                "name": "nhan vat 520"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062d9cdbc7b08071635585e",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": {},
+        "isStage": false,
+        "blocks": {},
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062d9d3bc7b080716355860",
+        "name": "nhan vat 53",
+        "costumes": [
+            {
+                "_id": "6062d9d3bc7b080716355861",
+                "assetId": "5f47dd609a2aa3c231c8788fc72248be",
+                "bitmapResolution": 1,
+                "md5ext": "5f47dd609a2aa3c231c8788fc72248be.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/nv_53.svg",
+                "name": "nhan vat 530"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062d9d3bc7b080716355862",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": {},
+        "isStage": false,
+        "blocks": {},
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062d9d8bc7b080716355864",
+        "name": "nhan vat 54",
+        "costumes": [
+            {
+                "_id": "6062d9d8bc7b080716355865",
+                "assetId": "54b063347b8e297d4bd16ef9584da2e6",
+                "bitmapResolution": 1,
+                "md5ext": "54b063347b8e297d4bd16ef9584da2e6.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/nv_54.svg",
+                "name": "nhan vat 540"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062d9d8bc7b080716355866",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": {},
+        "isStage": false,
+        "blocks": {},
+        "__v": 0
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "6062d9e3bc7b080716355868",
+        "name": "nhan vat 55",
+        "costumes": [
+            {
+                "_id": "6062d9e3bc7b080716355869",
+                "assetId": "bc5ca3721dab0534df50c18353167736",
+                "bitmapResolution": 1,
+                "md5ext": "bc5ca3721dab0534df50c18353167736.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100,
+                "base64": "192.168.2.206:8080/api/files/nv_55.svg",
+                "name": "nhan vat 550"
+            }
+        ],
+        "sounds": [
+            {
+                "_id": "6062d9e3bc7b08071635586a",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                "base64": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "variables": {},
+        "isStage": false,
+        "blocks": {},
+        "__v": 0
+    }
+]

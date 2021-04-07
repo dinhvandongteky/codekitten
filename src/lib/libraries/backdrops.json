@@ -1,0 +1,157 @@
+[
+    {
+        "tags": [
+            "outdoors",
+            "cold",
+            "north pole",
+            "south pole",
+            "ice",
+            "antarctica",
+            "robert hunter"
+        ],
+        "_id": "6062cb23bc7b080716355847",
+        "assetId": "7f702d38df5da41aca2138ebcf69e9c1",
+        "bitmapResolution": 1,
+        "md5ext": "7f702d38df5da41aca2138ebcf69e9c1.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 480,
+        "rotationCenterY": 360,
+        "base64": "192.168.2.206:8080/api/files/3Asset-1.svg",
+        "name": "backdrop1",
+        "type": "backdrop",
+        "__v": 0
+    },
+    {
+        "tags": [
+            "outdoors",
+            "cold",
+            "north pole",
+            "south pole",
+            "ice",
+            "antarctica",
+            "robert hunter"
+        ],
+        "_id": "6062cc6fbc7b080716355849",
+        "assetId": "7f780d6eba80724eed0367d0434bcc20",
+        "bitmapResolution": 1,
+        "md5ext": "7f780d6eba80724eed0367d0434bcc20.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 480,
+        "rotationCenterY": 360,
+        "base64": "192.168.2.206:8080/api/files/bg2.svg",
+        "name": "backdrop3",
+        "type": "backdrop",
+        "__v": 0
+    },
+    {
+        "tags": [
+            "outdoors",
+            "cold",
+            "north pole",
+            "south pole",
+            "ice",
+            "antarctica",
+            "robert hunter"
+        ],
+        "_id": "6062cd01bc7b08071635584a",
+        "assetId": "0959c1c5d1a4a9f87cbe2dd02b69aeb8",
+        "bitmapResolution": 1,
+        "md5ext": "0959c1c5d1a4a9f87cbe2dd02b69aeb8.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 480,
+        "rotationCenterY": 360,
+        "base64": "192.168.2.206:8080/api/files/bg4.svg",
+        "name": "backdrop4",
+        "type": "backdrop",
+        "__v": 0
+    },
+    {
+        "tags": [
+            "outdoors",
+            "cold",
+            "north pole",
+            "south pole",
+            "ice",
+            "antarctica",
+            "robert hunter"
+        ],
+        "_id": "6062ce4fbc7b08071635584b",
+        "assetId": "dec81f32c63013648f21759cba5f46f1",
+        "bitmapResolution": 1,
+        "md5ext": "dec81f32c63013648f21759cba5f46f1.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 480,
+        "rotationCenterY": 360,
+        "base64": "192.168.2.206:8080/api/files/bg5.svg",
+        "name": "backdrop5",
+        "type": "backdrop",
+        "__v": 0
+    },
+    
+    {
+        "tags": [
+            "outdoors",
+            "cold",
+            "north pole",
+            "south pole",
+            "ice",
+            "antarctica",
+            "robert hunter"
+        ],
+        "_id": "6062d087bc7b08071635584d",
+        "assetId": "117041a32ebaffe951c3e2f8f964b0f0",
+        "bitmapResolution": 1,
+        "md5ext": "117041a32ebaffe951c3e2f8f964b0f0.png",
+        "dataFormat": "png",
+        "rotationCenterX": 480,
+        "rotationCenterY": 360,
+        "base64": "192.168.2.206:8080/api/files/bg7.png",
+        "name": "backdrop6",
+        "type": "backdrop",
+        "__v": 0
+    },
+    {
+        "tags": [
+            "outdoors",
+            "cold",
+            "north pole",
+            "south pole",
+            "ice",
+            "antarctica",
+            "robert hunter"
+        ],
+        "_id": "6062d0d2bc7b08071635584e",
+        "assetId": "1230e2ae5cf936a9f85ddd394f5150f5",
+        "bitmapResolution": 1,
+        "md5ext": "1230e2ae5cf936a9f85ddd394f5150f5.png",
+        "dataFormat": "png",
+        "rotationCenterX": 480,
+        "rotationCenterY": 360,
+        "base64": "192.168.2.206:8080/api/files/bg7.png",
+        "name": "backdrop7",
+        "type": "backdrop",
+        "__v": 0
+    },
+    {
+        "tags": [
+            "outdoors",
+            "cold",
+            "north pole",
+            "south pole",
+            "ice",
+            "antarctica",
+            "robert hunter"
+        ],
+        "_id": "6062d177bc7b08071635584f",
+        "assetId": "3827904ece51854a36ffbfa203acbcc2",
+        "bitmapResolution": 1,
+        "md5ext": "3827904ece51854a36ffbfa203acbcc2.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 240,
+        "rotationCenterY": 180,
+        "base64": "192.168.2.206:8080/api/files/bg8.svg",
+        "name": "backdrop8",
+        "type": "backdrop",
+        "__v": 0
+    }
+]

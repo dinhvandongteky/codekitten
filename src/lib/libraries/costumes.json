@@ -1,0 +1,34 @@
+[
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "60613c75dc7e4fdc52e21b43",
+        "assetId": "dee4fac9c336ab996ee899fd764328d1",
+        "name": "nhan vat 1-1",
+        "bitmapResolution": 1,
+        "md5ext": "dee4fac9c336ab996ee899fd764328d1.png",
+        "dataFormat": "png",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100,
+        "base64": "",
+        "type": "sprite"
+    },
+    {
+        "tags": [
+            "beauty",
+            "nature"
+        ],
+        "_id": "60613c83371fb5dc60b4bac6",
+        "assetId": "4d47d199838fa579c35563ea68116683",
+        "name": "nhan vat 2-1",
+        "bitmapResolution": 1,
+        "md5ext": "4d47d199838fa579c35563ea68116683.png",
+        "dataFormat": "png",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100,
+        "base64": "",
+        "type": "sprite"
+    }
+]
